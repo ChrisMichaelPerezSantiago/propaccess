@@ -1,7 +1,7 @@
 {
   "name": "propaccess",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "packageManager": "pnpm@7.2.1",
   "description": "Deep property access written in TS.",
   "author": "Chris Michael <chrisperezsantiago1@gmail.com>",
